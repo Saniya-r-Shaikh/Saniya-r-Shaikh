@@ -19,9 +19,5 @@ Hey, I’m Saniya R 👋<br><br>I like building things, solving problems, and sp
 ![](https://github-profile-trophy.vercel.app/?username=Saniya-r-Shaikh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
 ## 🐛 Fun Fact
 <h4> 😎 I genuinely enjoy debugging. Not during the bug — only after it’s fixed.</h4>
