@@ -19,4 +19,4 @@ Hey, I’m Saniya R 👋<br><br>I like building things, solving problems, and sp
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🐛 Fun Fact
-I genuinely enjoy debugging. Not during the bug — only after it’s fixed.
+<h4> 😎 I genuinely enjoy debugging. Not during the bug — only after it’s fixed.</h4>
