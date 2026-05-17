@@ -2,7 +2,7 @@
 Hey, I’m Saniya R 👋<br><br>I like building things, solving problems, and spending way too much time debugging code that turned out to be missing a single semicolon.<br><br>Just a developer trying to turn random ideas into cool projects. I enjoy coding, hackathons, open source, and the happiness of finally fixing a bug after 3 hours.<br><br>I love building projects, learning new technologies, and pretending I completely understand my own code after revisiting it a month later.<br><br>Curious developer passionate about web development, logic design, and creating useful things by actually building and experimenting. Most of my projects start with “this might be fun” and somehow end with 27 browser tabs open.<br><br>Coding during the day, debugging at night, and honestly enjoying both.
 
 
-## 🌐 Socials:
+## 🌐 Lets Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/saniyarahimshaikh_98553) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saniya-r-shaikh) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/shaikhsaniyar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SaniyaR29) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shaikhsaniyar2006@gmail.com) 
 
 # 💻 Tech Stack:
@@ -17,3 +17,6 @@ Hey, I’m Saniya R 👋<br><br>I like building things, solving problems, and sp
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+### 🐛 Fun Fact
+I genuinely enjoy debugging. Not during the bug — only after it’s fixed.
